@@ -1,4 +1,4 @@
-# springIOC-
+# springIOC
 * 实现一个IOC容器
  * 1:根据需求编写XML配置文件，配置需要创建的bean
  * 2:编写程序读取XML文件，获取bean相关信息，类属性，id
